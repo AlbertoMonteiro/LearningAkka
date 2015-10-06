@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAkka", "TestAkka\TestAk
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAkka.Routes", "TestAkka.Routes\TestAkka.Routes.csproj", "{2E5EF74F-C01F-48C4-9F44-3536B0DB2741}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAkka.UnitTest", "TestAkka.UnitTest\TestAkka.UnitTest.csproj", "{2713E1EA-A2E6-4C82-9781-0BA578D127A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2E5EF74F-C01F-48C4-9F44-3536B0DB2741}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E5EF74F-C01F-48C4-9F44-3536B0DB2741}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E5EF74F-C01F-48C4-9F44-3536B0DB2741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2713E1EA-A2E6-4C82-9781-0BA578D127A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2713E1EA-A2E6-4C82-9781-0BA578D127A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2713E1EA-A2E6-4C82-9781-0BA578D127A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2713E1EA-A2E6-4C82-9781-0BA578D127A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
